@@ -1,0 +1,1 @@
+An example of testing authorization and registration forms
